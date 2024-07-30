@@ -2,7 +2,9 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning back end web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me
+- alukopeter222@gmail.com
+- 07083894435
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
